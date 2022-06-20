@@ -15,3 +15,9 @@ function isodd(number) {
 isodd(11)
 isodd(12)
 isodd(9)
+
+function add(p1, p2) {
+  console.log(`sum=${p1 + p2}`)
+}
+
+add(10, 20)
