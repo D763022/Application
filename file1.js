@@ -15,3 +15,9 @@ function isodd(number) {
 isodd(11)
 isodd(12)
 isodd(9)
+
+function sub(p1, p2) {
+  console.log(`sub=${p1 - p2}`)
+}
+
+sub(10, 4)
