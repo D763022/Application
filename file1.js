@@ -32,3 +32,8 @@ function div(p1, p2) {
 }
 
 div(10, 4)
+
+function square() {
+  console.log(`SQUARE`)
+}
+square()
