@@ -21,3 +21,8 @@ function add(p1, p2) {
 }
 
 add(10, 20)
+function sub(p1, p2) {
+  console.log(`sub=${p1 - p2}`)
+}
+
+sub(10, 4)
