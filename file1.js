@@ -6,3 +6,12 @@ function iseven(number) {
 iseven(10)
 iseven(11)
 iseven(1)
+
+function isodd(number) {
+  if (number % 2 != 0) console.log('number is odd')
+  else console.log('number is not odd')
+}
+
+isodd(11)
+isodd(12)
+isodd(9)
