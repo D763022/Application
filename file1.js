@@ -26,3 +26,9 @@ function sub(p1, p2) {
 }
 
 sub(10, 4)
+
+function mul(p1, p2) {
+  console.log(`sub=${p1 - p2}`)
+}
+
+mul(10, 4)
