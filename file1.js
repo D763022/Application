@@ -37,3 +37,8 @@ function square() {
   console.log(`SQUARE`)
 }
 square()
+
+function square() {
+  console.log(`SQUARE`)
+}
+square()
